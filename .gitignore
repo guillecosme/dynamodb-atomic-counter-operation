@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Custom exception files
+
+config.py
+
+
 # C extensions
 *.so
 
